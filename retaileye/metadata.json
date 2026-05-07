@@ -1,0 +1,6 @@
+{
+  "name": "RetailEye",
+  "description": "Autonomous AI agent for planogram compliance and inventory replenishment using OpenCV and Gemini reasoning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}

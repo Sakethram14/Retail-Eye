@@ -1,0 +1,18 @@
+{
+  "stores": [
+    {
+      "id": "STORE_001",
+      "name": "SuperMart Downtown",
+      "inventory": [
+        { "sku_id": "COKE_330_6P", "product_name": "Coca-Cola 330ml 6-Pack", "backroom_stock": 45, "warehouse_stock": 200, "supplier_id": "COCA_COLA_CO", "velocity": 15.5 },
+        { "sku_id": "LAYS_CLASSIC_150G", "product_name": "Lays Classic 150g", "backroom_stock": 0, "warehouse_stock": 150, "supplier_id": "PEPSICO", "velocity": 22.0 },
+        { "sku_id": "PEPSI_500ML", "product_name": "Pepsi 500ml", "backroom_stock": 12, "warehouse_stock": 80, "supplier_id": "PEPSICO", "velocity": 8.2 },
+        { "sku_id": "DORITOS_NACHO_200G", "product_name": "Doritos Nacho Cheese 200g", "backroom_stock": 0, "warehouse_stock": 0, "supplier_id": "PEPSICO", "velocity": 10.5 },
+        { "sku_id": "NESTLE_WATER_500", "product_name": "Nestle Pure Life 500ml", "backroom_stock": 120, "warehouse_stock": 500, "supplier_id": "NESTLE", "velocity": 45.0 },
+        { "sku_id": "DOVE_BAR_100G", "product_name": "Dove Beauty Bar 100g", "backroom_stock": 5, "warehouse_stock": 30, "supplier_id": "UNILEVER", "velocity": 2.5 },
+        { "sku_id": "COLGATE_TOTAL_100", "product_name": "Colgate Total 100g", "backroom_stock": 8, "warehouse_stock": 40, "supplier_id": "COLGATE", "velocity": 4.1 },
+        { "sku_id": "PRINGLES_ORIG_165", "product_name": "Pringles Original 165g", "backroom_stock": 0, "warehouse_stock": 25, "supplier_id": "KELLOGG", "velocity": 12.0 }
+      ]
+    }
+  ]
+}
